@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Federico Del Gaudio 👋
 
-<!--
-**Federico-del-gaudio/Federico-del-gaudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Combat & Technical Game Designer
 
-Here are some ideas to get you started:
+I am a **Game Designer** specializing in **Combat Design** and **Technical Design**. I enjoy the entire design workflow—from conceptualizing systems on paper to actively prototyping them directly in-engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Core Competencies & Tools
+
+- **Specializations:** Combat Systems, Technical Design, Paper Design, Mechanics Prototyping, Gameplay Feel
+- **Primary Engines:** Unreal Engine 5 & Unity *(always eager to learn and adapt to proprietary or new engines)*
+- **Implementation:** Blueprints, C#, C++
+
+---
+
+## 🌐 Portfolio & Professional Links
+
+- 🎮 **Portfolio (with playable builds):** [federico-del-gaudio.github.io](https://federico-del-gaudio.github.io/)
+- 💼 **LinkedIn:** [Federico Del Gaudio](https://www.linkedin.com/in/federico-del-gaudio37/)
+
+---
+
+*Feel free to reach out via LinkedIn or explore my portfolio to test out my playable prototypes!*
