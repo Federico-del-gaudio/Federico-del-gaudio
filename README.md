@@ -10,7 +10,7 @@ I am a **Game Designer** specializing in **Combat Design** and **Technical Desig
 
 - **Specializations:** Combat Systems, Technical Design, Paper Design, Mechanics Prototyping, Gameplay Feel
 - **Primary Engines:** Unreal Engine 5 & Unity *(always eager to learn and adapt to proprietary or new engines)*
-- **Implementation:** Blueprints, C#, C++
+- **Implementation:** Blueprints, C#
 
 ---
 
