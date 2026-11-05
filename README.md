@@ -1,6 +1,6 @@
 # Hi, I'm Federico Del Gaudio 👋
 
-### Combat & Technical Game Designer
+### Gameplay & Combat Designer
 
 I am a **Game Designer** specializing in **Combat Design** and **Technical Design**. I enjoy the entire design workflow—from conceptualizing systems on paper to actively prototyping them directly in-engine.
 
