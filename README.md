@@ -2,7 +2,7 @@
 
 ### Gameplay & Combat Designer
 
-I am a **Game Designer** specializing in **Combat Design** and **Technical Design**. I enjoy the entire design workflow—from conceptualizing systems on paper to actively prototyping them directly in-engine.
+I am a **Game Designer** specializing in **Combat Design** and **Gameplay Design**. I enjoy the entire design workflow—from conceptualizing systems on paper to actively prototyping them directly in-engine.
 
 ---
 
